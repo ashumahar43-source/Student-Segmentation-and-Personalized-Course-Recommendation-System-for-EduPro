@@ -297,11 +297,6 @@ A full academic research paper is included in [`research_paper.md`](./research_p
 
 ---
 
-## 📜 License
-
-This project is licensed under the **MIT License** — see [LICENSE](./LICENSE) for details.
-
----
 
 ## 🙏 Acknowledgements
 
