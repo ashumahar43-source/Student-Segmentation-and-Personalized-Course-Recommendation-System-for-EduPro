@@ -147,7 +147,7 @@ edupro/
 ```bash
 # 1. Clone the repository
 git clone https://github.com/your-username/edupro-learner-intelligence.git
-cd edupro-learner-intelligence
+cd Student-Segmentation-and-Personalized-Course-Recommendation-System-for-EduPro
 
 # 2. (Optional) Create a virtual environment
 python -m venv venv
